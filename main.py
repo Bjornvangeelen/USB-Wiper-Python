@@ -1,6 +1,5 @@
 import os
 import shutil
-import subprocess
 
 drive_input = input('Input drive letter: ')
 
